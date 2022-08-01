@@ -2,9 +2,17 @@ package com.git;
 
 public class Class1 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+private void method() {
+	System.out.println("1");
 
-	}
+}
+private void method2() {
+	System.out.println("20");
+
+}
+private void method3() {
+	System.out.println("33");
+
+}
 
 }
